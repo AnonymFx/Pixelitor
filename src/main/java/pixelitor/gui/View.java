@@ -60,6 +60,7 @@ public class View extends JComponent implements MouseListener, MouseMotionListen
     private Canvas canvas;
     private ZoomLevel zoomLevel = ZoomLevel.Z100;
     private double scaling = 1.0f;
+    int i = 0;
 
     private ViewContainer viewContainer = null;
     private LayersPanel layersPanel;
