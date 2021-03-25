@@ -30,6 +30,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <properties>
+      <sonar.projectKey>AnonymFx_Pixelitor</sonar.projectKey>
+      <sonar.organization>anonymfx</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
     <build>
         <defaultGoal>package</defaultGoal>
         <plugins>
