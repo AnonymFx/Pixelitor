@@ -58,6 +58,8 @@ public class Pixelitor {
     }
 
     public static void main(String[] args) {
+        // New TODO
+        // New TODO 2
         // the app can be put into development mode by
         // adding -Dpixelitor.development=true to the command line
         if ("true".equals(System.getProperty("pixelitor.development"))) {
